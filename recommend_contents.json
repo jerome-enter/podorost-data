@@ -1,0 +1,32 @@
+[
+  {
+    "author": "후로스트",
+    "title": "변방의 외노자",
+    "description": "촉수 괴물 나오는 판타지중에 재미 없는게 없다! 은둔형 마법사 작가의 더욱 광활해진 세계관과 스펙타클한 모험담!",
+    "category": "NOVEL",
+    "subCategory": "FANTASY",
+    "links": [
+      {
+        "url": "https://link-page.kakao.com/open/content?series_id=56164681&utm_source=podorost_recom",
+        "platformType": "KAKAO_PAGE"
+      }
+    ],
+    "thumbnailUrl": "https://github.com/jerome-enter/podorost-data/images/recommend_01.jpg",
+    "isCompleted": true
+  },
+  {
+    "author": "유키노부 타츠",
+    "title": "단다단",
+    "description": "귀신!외계인!여고생! 조합이면 재미없을 수 없지 않나?",
+    "category": "WEBTOON",
+    "subCategory": "ACTION",
+    "links": [
+      {
+        "url": "http://naver.me/Gi92gsZ6",
+        "platformType": "NAVER_SERIES"
+      }
+    ],
+    "thumbnailUrl": "https://github.com/jerome-enter/podorost-data/images/recommend_02.jpg",
+    "isCompleted": false
+  }
+]
