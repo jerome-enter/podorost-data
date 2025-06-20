@@ -11,7 +11,7 @@
         "platform_type": "KAKAO_PAGE"
       }
     ],
-    "thumbnail_url": "https://github.com/jerome-enter/podorost-data/images/recommend_01.jpg",
+    "thumbnail_url": "https://github.com/jerome-enter/podorost-data/blob/main/images/recommend_01.jpg",
     "is_completed": true
   },
   {
@@ -26,7 +26,7 @@
         "platform_type": "NAVER_SERIES"
       }
     ],
-    "thumbnail_url": "https://github.com/jerome-enter/podorost-data/images/recommend_02.jpg",
+    "thumbnail_url": "https://github.com/jerome-enter/podorost-data/blob/main/images/recommend_02.jpg",
     "is_completed": false
   }
 ]
